@@ -2,7 +2,6 @@ import React from "react";
 import Banner from "./Banner";
 import Contact from "./Contact";
 import Features from "./Features";
-
 import FooterBottom from "./FooterBottom";
 import Navbar from "./Navbar";
 import Projects from "./Projects";
@@ -19,7 +18,6 @@ function App() {
         <Projects />
         <Resume />
         <Contact />
-       
         <FooterBottom />
       </div>
     </div>
