@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Chetan-the.github.io/portfoliooo",
+  "homepage": "https://Chetan-the.github.io/Portfolio",
   "name": "portfolioyoutube",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +19,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "Start" :"react scripts Start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
