@@ -1,8 +1,9 @@
 import React, { useState } from 'react'
 import { Link } from "react-scroll";
+import { navbarlogo } from './assets/index';
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+import { FaGithub,FaLinkedinIn, FaInstagram } from "react-icons/fa";
 import { logo } from "./assets/index";
 import { navLinksdata } from './constants';
 
@@ -11,7 +12,7 @@ const Navbar = () => {
   return (
     <div className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
       <div>
-        <img src={logo} alt="logo" />
+        <img src={navbarlogo} alt="logo" />
       </div>
       <div>
         <ul className="hidden mdl:inline-flex items-center gap-6 lg:gap-10">
@@ -45,9 +46,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                I'm a skilled web developer - building responsive, user-friendly websites and applications. I specialize in front-end and back-end development,along with frameworks focusing on performance, accessibility, and seamless user experiences.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
@@ -76,13 +75,20 @@ const Navbar = () => {
                 </h2>
                 <div className="flex gap-4">
                   <span className="bannerIcon">
-                    <FaFacebookF />
+                    
+                                <a href="https://github.com/Chetan-the" target="_blank" rel="noopener noreferrer">
+                                <FaGithub />
+                          </a>
                   </span>
                   <span className="bannerIcon">
-                    <FaTwitter />
+                    <a href="https://www.linkedin.com/in/chetan-sai-koganti-244534293/" target="_blank" rel="noopener noreferrer">
+                                <FaLinkedinIn />
+                          </a>
                   </span>
                   <span className="bannerIcon">
-                    <FaLinkedinIn />
+                  <a href="https://www.instagram.com/chetan_chetan_5818/" target="_blank" rel="noopener noreferrer">
+                             <FaInstagram />
+                       </a>
                   </span>
                 </div>
               </div>

@@ -1,4 +1,8 @@
 import logo from "./images/logo.png";
+import rightbann from './images/rightbann.jpg';
+import rightban from './images/rightban.jpg';
+import navbarlogo from './images/navbarlogo.png';
+import chetanlogo from './images/chetanlogo.png';
 import portfolio from './images/projects/portfolio-icon.png';
 import weather from './images/projects/Apple_Weather.png';
 import quiz from './images/projects/quiz.jpg';
@@ -14,6 +18,10 @@ import quote from "./images/testmonial/quote.png"
 import contactImg from "./images/contact/contactImg.png"
 
 export {
+  rightbann,
+  rightban,
+  chetanlogo,
+  navbarlogo,
   portfolio,
   weather,
   quiz,
