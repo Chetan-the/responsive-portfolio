@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
        
-        <p class="text-lg text-red-300">I am a passionate <strong>MERN Stack Developer</strong> with a focus on building modern, full-stack web applications. I specialize in leveraging the power of MongoDB, Express.js, React, and Node.js to create dynamic, high-performance solutions that are both user-friendly and scalable.</p>
+        <p class="text-lg text-red-300">I am a passionate MERN Stack Developer and Machine Learning Engineer, dedicated to building modern, full-stack web applications and intelligent solutions. I specialize in leveraging MongoDB, Express.js, React, and Node.js to create dynamic, high-performance applications that are both user-friendly and scalable. Additionally, I integrate machine learning models to enhance functionality, enabling data-driven decision-making and automation. With a strong problem-solving mindset, I aim to develop innovative, efficient, and impactful digital solutions.</p>
 
       </div>
      {/* Media */}

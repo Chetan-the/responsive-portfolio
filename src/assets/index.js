@@ -1,4 +1,7 @@
 import logo from "./images/logo.png";
+import a_papers from "./images/projects/a_papers.avif";
+import papers from "./images/projects/papers.png";
+import accesspapers from "./images/projects/access-papers.png";
 import rightbann from './images/rightbann.jpg';
 import rightban from './images/rightban.jpg';
 import navbarlogo from './images/navbarlogo.png';
@@ -16,8 +19,14 @@ import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png"
 import contactImg from "./images/contact/contactImg.png"
+import nike from "./images/projects/nike.png"
+import weatherapp from "./images/projects/weather-app.jpeg"
+import medicines from "./images/projects/medicine.jpeg"
+import simon from "./images/projects/simon.jpeg"
 
 export {
+  nike,
+  a_papers,
   rightbann,
   rightban,
   chetanlogo,
@@ -25,6 +34,7 @@ export {
   portfolio,
   weather,
   quiz,
+  papers,
   Newsicon,
   Textutils,
   logo,
@@ -35,5 +45,8 @@ export {
   testimonialOne,
   testimonialTwo,
   quote,
-  contactImg
+  medicines,
+  weatherapp,
+  simon,
+  contactImg,accesspapers
 };
