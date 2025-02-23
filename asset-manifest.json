@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/responsive-portfolio/static/css/main.9a2bd021.css",
-    "main.js": "/responsive-portfolio/static/js/main.9a458986.js",
-    "static/js/787.aab9a656.chunk.js": "/responsive-portfolio/static/js/787.aab9a656.chunk.js",
+    "main.css": "/responsive-portfolio/static/css/main.c8962f65.css",
+    "main.js": "/responsive-portfolio/static/js/main.c4e82141.js",
+    "static/js/453.2f807c73.chunk.js": "/responsive-portfolio/static/js/453.2f807c73.chunk.js",
     "static/media/access-papers.png": "/responsive-portfolio/static/media/access-papers.2b457ae351db0a32227a.png",
     "static/media/bannerImg.png": "/responsive-portfolio/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
     "static/media/Apple_Weather.png": "/responsive-portfolio/static/media/Apple_Weather.6e87caa0c08ad1a33a01.png",
@@ -21,12 +21,12 @@
     "static/media/navbarlogo.png": "/responsive-portfolio/static/media/navbarlogo.6280820d130b94c7d1a8.png",
     "static/media/simon.jpeg": "/responsive-portfolio/static/media/simon.b8f9f3639a54d0da5421.jpeg",
     "index.html": "/responsive-portfolio/index.html",
-    "main.9a2bd021.css.map": "/responsive-portfolio/static/css/main.9a2bd021.css.map",
-    "main.9a458986.js.map": "/responsive-portfolio/static/js/main.9a458986.js.map",
-    "787.aab9a656.chunk.js.map": "/responsive-portfolio/static/js/787.aab9a656.chunk.js.map"
+    "main.c8962f65.css.map": "/responsive-portfolio/static/css/main.c8962f65.css.map",
+    "main.c4e82141.js.map": "/responsive-portfolio/static/js/main.c4e82141.js.map",
+    "453.2f807c73.chunk.js.map": "/responsive-portfolio/static/js/453.2f807c73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a2bd021.css",
-    "static/js/main.9a458986.js"
+    "static/css/main.c8962f65.css",
+    "static/js/main.c4e82141.js"
   ]
 }
